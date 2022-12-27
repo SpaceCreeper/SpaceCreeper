@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpaceCreeper
 - 👀 I’m interested in making Minecraft Mods
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on a Mineraft Mod
 - 📫 How to reach me ... (Not too sure yet lol)
 
